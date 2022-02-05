@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Paulo Naoe</h1>
 <h3 align="center">A Healthcare IT professional who loves to code.</h3>
 
-- 📫 How to reach me **https://www.linkedin.com/in/brian-paulo-naoe-89049b1a3/**
+- 📫 How to reach me **https://www.linkedin.com/in/brian-paulo-naoe**
 - ⚡ Fun fact about me **It's not about the destination, but rather it's about the journey and how you were able to get there.**
 
 
